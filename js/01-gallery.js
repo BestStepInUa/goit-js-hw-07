@@ -84,12 +84,12 @@ if ('loading' in HTMLImageElement.prototype) {
 
 document.body.appendChild(script);
 
-// const gallaryImgs = document.querySelectorAll('img[data-src]');
-// gallaryImgs.forEach(img =>
-//     img.addEventListener('load', onImgLoaded), { once: true }
-// );
+const lazyItems = document.querySelectorAll('.gallery__item');
+lazyItems.forEach(item =>
+    item.addEventListener('load', onImgLoaded), { once: true }
+);
 
-// function onImgLoaded(e) {
-//     console.log('Image loaded');
-//     e.target.classList.add('image__loaded')
-// }
+function onImgLoaded(e) {
+    console.log('Image loaded');
+    e.target.classList.add('item__loaded')
+}
