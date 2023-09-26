@@ -60,7 +60,7 @@ function onGallaryImgClick(e) {
      // Сlosed model window via ESC Key handler
     function onEscInModal (e) {
             if (e.key === "Escape") {
-                modal.close();
+                modalWindow.close();
         }
     } 
 }
