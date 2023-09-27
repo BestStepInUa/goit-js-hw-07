@@ -166,5 +166,68 @@ export const galleryItems = [
     original:
       'https://images.pexels.com/photos/18091883/pexels-photo-18091883.jpeg?w=1280',
     description: 'Vintage Car',
-  }  
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/18103058/pexels-photo-18103058.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/18103058/pexels-photo-18103058.jpeg?w=1280',
+    description: 'Huskies in Harness',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/7317603/pexels-photo-7317603.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/7317603/pexels-photo-7317603.jpeg?w=1280',
+    description: 'Street Spice Shop',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/3735149/pexels-photo-3735149.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/3735149/pexels-photo-3735149.jpeg?w=1280',
+    description: 'Solid Shampoo',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/796584/pexels-photo-796584.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/796584/pexels-photo-796584.jpeg?w=1280',
+    description: 'Pet Store',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/12935095/pexels-photo-12935095.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/12935095/pexels-photo-12935095.jpeg?w=1280',
+    description: 'Shop of Painted Pottery',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/13652022/pexels-photo-13652022.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/13652022/pexels-photo-13652022.jpeg?w=1280',
+    description: 'Street Shoe Store',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/2610820/pexels-photo-2610820.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/2610820/pexels-photo-2610820.jpeg?w=1280',
+    description: 'Street Shop of Dishes',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/2276796/pexels-photo-2276796.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/2276796/pexels-photo-2276796.jpeg?w=1280',
+    description: 'Fair in Venice',
+  },
+  {
+    preview:
+      'https://images.pexels.com/photos/3292439/pexels-photo-3292439.jpeg?w=340',
+    original:
+      'https://images.pexels.com/photos/3292439/pexels-photo-3292439.jpeg?w=1280',
+    description: 'Asian Roadside Trade',
+  }     
 ];
