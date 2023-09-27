@@ -24,7 +24,6 @@ const galleryLightbox = new SimpleLightbox('.gallery a',
     {
         captionsData: "alt",
         captionDelay: 250,
-        captionClass: 'caption__alt'
     }
 );
 galleryLightbox.on('show.simplelightbox');
