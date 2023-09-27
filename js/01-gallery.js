@@ -7,7 +7,7 @@ const gallaryMarkup = createGallaryItemsMarkup(galleryItems);
 // Adding generated markup
 gallaryList.insertAdjacentHTML('beforeend', gallaryMarkup);
 // Delegating the image click event
-// gallaryList.addEventListener('click', onGallaryImgClick)
+gallaryList.addEventListener('click', onGallaryImgClick)
 
 // Generate gallary img function
 function createGallaryItemsMarkup(gallary) {
